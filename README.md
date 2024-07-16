@@ -1,7 +1,7 @@
 # KnowThyBasis
 The source code for the CHES 2024 paper on 6-bit lightweight S-box implementations - "Know-Thy-Basis: Decomposing $\mathbb{F}_{2^{6}}$ for Lightweight S-box Implementation."
 
-We have used the naming convention for the Verilog Code generation file as follows.
+The naming convention for the Verilog Code generation file is as follows.
 
 Using Conventional Bases (N-N, N-P, P-N, P-P):
 
