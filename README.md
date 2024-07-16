@@ -49,4 +49,4 @@ SMSSE1E2_d_b1b2_k_l.v: Everything is the same as above the extra S in SMSS is de
 
 SMSE1E2_2_d_b1b2_k_l.v, SMSSE1E2_2_d_b1b2_k_l.v: The Verilog codes for the S-boxes with non-zero linear terms in conventional and special normal bases. (E1E2=23, 32; d=13,19,26,38,41,52)
 
-The file BestDesign contains the Verilog code for each SMS S-box with different choices of bases. 
+The file BestDesign contains the best design of the Verilog code for each SMS S-box with different choices of bases. 
